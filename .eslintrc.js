@@ -23,5 +23,6 @@ module.exports = {
     'no-console': 0,
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'linebreak-style': 0,
   },
 };
